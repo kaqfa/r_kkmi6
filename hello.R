@@ -7,3 +7,6 @@ ipk  <- 3.98
 print(nama)
 print(umur)
 print(ipk)
+
+umur <- umur + 10
+print(umur)
